@@ -10,14 +10,15 @@ There's something profoundly depressing about 30,000 dreams – one for every da
 Dream data is stored in the `dreams/` directory. Data is broken into collections. Each dream collection looks like this:
 
 ```
-dreams/alta.json
+dreams/jeff.json
 {
-    "dreamer": "alta", 
-    "description": "Alta: a detailed dreamer", 
+    "dreamer": "jeff", 
+    "description": "Jeff: a lucid dreamer", 
     "dreams": [
         {
-            "head": "1957", 
-            "content": "The one at the Meads's house, where it's bigger inside than out; there's a European village just inside, with a cobblestone street and a Pied-Piper sort of man with curly hair, he can do things like juggle - I go up the back stairs [there aren't any in the real house] and then down the other side [since there's a second set, immediately] then down a short empty hallway that turns a corner, where I find a tiny room...a young woman with shoulder-length blonde hair in a pageboy is there, cooking at a stove that almost fills the room...she's nice to me. Now outside, I'm waiting for my aunt to pick me up - she arrives in a little round convertible and we go for a drive, not very far - we cross a little bridge over a creek, then double back and she drops me off at the house again. Inside (?) I sit with a couple of people, playing with a string of blue balloons."
+            "number": "071", 
+            "head": "07/12/2000", 
+            "content": "I'm going to a party at Laura's house. I'm wearing a costume, half penguin (my bottom half) and my top half was probably a wizard costume (which I do have physically) because in the dream I think I referred to myself as \"the penguin wizard\". A lot of people laughed at my costume (not at me!). Then I am ..."
         },
         ...
 }
