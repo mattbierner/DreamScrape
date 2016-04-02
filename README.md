@@ -2,7 +2,7 @@
 
 Json data set of dream reports, scraped from [DreamBank](http://dreambank.net).
 
-DreamBank is a neat collection of nearly 30,000+ dream reports, but its data is not easy to consume. So I scraped most of the data and formatted it as json and stuck it up in this repo.
+DreamBank is a neat collection of nearly 30,000 dream reports, but its data is not easy to consume. So I scraped most of the data and formatted it as json and stuck it up in this repo.
 
 There's something profoundly depressing about 30,000 dreams – one for every day of your life – fitting into a little under 30MB (only 9.1MB gzipped!)
 
