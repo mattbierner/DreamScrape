@@ -7,9 +7,9 @@ DreamBank is a neat collection of nearly 30,000+ dream reports, but its data is 
 There's something profoundly depressing about 30,000 dreams – one for every day of your life – fitting into a little under 30MB (only 9.1MB gzipped!)
 
 ## Data
-Dream data is stored in the `dreams/` directory. Data is broken by dreamer or collection. Each dream collection looks like this:
+Dream data is stored in the `dreams/` directory. Data is broken into collections. Each dream collection looks like this:
 
-```json
+```
 dreams/alta.json
 {
     "dreamer": "alta", 
